@@ -1,0 +1,10 @@
+body {
+	min-width: 320px;
+	margin: 0;
+	padding: 0;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: var(--main-text);
+	background-color: var(--bg-color);
+}

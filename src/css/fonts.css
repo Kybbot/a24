@@ -1,0 +1,30 @@
+/* noto-sans-jp-regular - latin */
+@font-face {
+	font-family: 'Noto Sans JP';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/noto-sans-jp/noto-sans-jp-v28-latin-regular.woff2')
+			format('woff2'),
+		url('../fonts/noto-sans-jp/noto-sans-jp-v28-latin-regular.woff')
+			format('woff');
+}
+
+/* noto-sans-jp-500 - latin */
+@font-face {
+	font-family: 'Noto Sans JP';
+	font-style: normal;
+	font-weight: 500;
+	src: url('../fonts/noto-sans-jp/noto-sans-jp-v28-latin-500.woff2')
+			format('woff2'),
+		url('../fonts/noto-sans-jp/noto-sans-jp-v28-latin-500.woff') format('woff');
+}
+
+/* noto-sans-jp-700 - latin */
+@font-face {
+	font-family: 'Noto Sans JP';
+	font-style: normal;
+	font-weight: 700;
+	src: url('../fonts/noto-sans-jp/noto-sans-jp-v28-latin-700.woff2')
+			format('woff2'),
+		url('../fonts/noto-sans-jp/noto-sans-jp-v28-latin-700.woff') format('woff');
+}
